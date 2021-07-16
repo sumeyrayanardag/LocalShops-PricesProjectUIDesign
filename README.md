@@ -1,6 +1,8 @@
 # LocalShops-PricesProjectUIDesign
 Interactive UI Design with Proto.io
 
+To open the project, you should download the file named NeKadarUIDesign.zip and open frame.html.
+
 We have 4 main tasks in Local Shops - Prices Application:
 
 Task 1: SEARCHING PRODUCT
