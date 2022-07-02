@@ -16,3 +16,25 @@ The market owner must log in after opening the application to add market. If mar
 
 Task 4: PRODUCT EVALUATION
 In order to evaluate a product in a store and write an opinion about it, the user must first log in to the application. Then search for the product to comment and click the comment button, comment and star the product in the market he chooses with the name he created, then press the "send" button. The user can review other comments if he wish.
+
+![Untitled](https://user-images.githubusercontent.com/45365584/177010434-6e10c837-cd38-41b9-a65d-16e907741929.png)
+
+![Untitled](https://user-images.githubusercontent.com/45365584/177010503-8ca94747-0815-4ab5-9a79-ee6d07940be1.png)
+
+![Untitled1](https://user-images.githubusercontent.com/45365584/177010615-2bf0a349-a171-48a9-afe4-97ce026ab7e2.png)
+
+![Untitled2](https://user-images.githubusercontent.com/45365584/177010692-ca5e81e3-b0ad-4908-8a3d-cacabb4d43a4.png)
+
+![image](https://user-images.githubusercontent.com/45365584/177010708-6b07962c-c7e9-4785-a8fa-02e865d05b44.png)
+
+#### Come back to the main page
+
+![Untitled3](https://user-images.githubusercontent.com/45365584/177010850-361f9179-5ed6-4aec-a1a7-076bfb264331.png)
+
+![image](https://user-images.githubusercontent.com/45365584/177010871-61981ec8-7df5-423f-aed4-eeae42f62a25.png)
+
+
+
+
+
+
